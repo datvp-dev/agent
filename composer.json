@@ -1,8 +1,8 @@
 {
-    "name": "jenssegers/agent",
+    "name": "seta/agent",
     "description": "Desktop/mobile user agent parser with support for Laravel, based on Mobiledetect",
     "keywords": ["laravel", "useragent", "agent", "user agent", "browser", "platform", "mobile", "desktop"],
-    "homepage": "https://github.com/jenssegers/agent",
+    "homepage": "https://github.com/datvp-dev/agent",
     "license" : "MIT",
     "authors": [
         {
@@ -16,7 +16,7 @@
         "jaybizzle/crawler-detect": "^1.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.0|^6.0|^7.0",
+        "phpunit/phpunit": "^5.0|^6.0|^7.0|^9.0",
         "php-coveralls/php-coveralls": "^2.1"
     },
     "autoload": {
